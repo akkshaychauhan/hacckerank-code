@@ -2,7 +2,7 @@ int main() {
    
     char s[105]; 
     
-    fgets(s,105,stdin);
+    gets(s);
     
     printf("Hello, World.\n");
     
